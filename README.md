@@ -1,2 +1,2 @@
 # FPS_Tag
-Tag. You're it.
+A fun first person tag game made in Godot.
